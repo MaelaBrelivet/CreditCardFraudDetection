@@ -54,3 +54,6 @@ To enable the algorithm to learn fraud patterns despite the scarcity of examples
 * Hyperparameter optimization using `RandomizedSearchCV`.
 * Testing unsupervised anomaly detection algorithms (e.g., Isolation Forest).
 * Deploying a prediction API using FastAPI and Docker.
+
+---
+*Project developed as part of a personal Data Science portfolio (2025).*
